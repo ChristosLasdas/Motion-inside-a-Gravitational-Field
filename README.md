@@ -4,5 +4,6 @@ This repository contains codes that were used in the context of the "Computation
 
 We have codes that are used for:
 
+* Study the trajectory of a body inside a gravitational potential and compare different Finite Difference Schemes (Euler and 4th order Runge-Kutta) for obtaining a solution
 * Study the stability of trajectories and Lagrange Points
-* Study the trajectory of a body inside a gravitational potential and compare different Finite Difference Schemes for obtaining a solution
+
